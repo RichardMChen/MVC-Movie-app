@@ -1,0 +1,18 @@
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+c:\users\richard\documents\visual studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Richard\Documents\Programs (Other)\Web Application Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
